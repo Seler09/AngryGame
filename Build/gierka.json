@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "gierka.data.unityweb",
+"asmCodeUrl": "gierka.asm.code.unityweb",
+"asmMemoryUrl": "gierka.asm.memory.unityweb",
+"asmFrameworkUrl": "gierka.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
